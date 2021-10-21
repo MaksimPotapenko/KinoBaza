@@ -53,16 +53,16 @@ ul li {
     line-height: 1.5em;
 }
 
-.header {
+header {
     background-color: darkslateblue;
-    height: 177px;
+    height: 210px;
     font-size: 0.8em;
     margin-left: 0px;
     margin-right: 0px;
     min-width: 900px;
 }
 
-.main, .logo, .menubar, .site_content, .footer {
+main, .logo, .menubar, .site_content, footer {
     margin-left: auto;
     margin-right: auto;
 }
@@ -198,7 +198,7 @@ hr {
 }
 
 .posts .posts_content {
-    font-size: 0.8em;
+    font-size: 1em;
 }
 
 /* Страница просмотра фильма */
@@ -335,7 +335,7 @@ td img {
     font-weight: bold;
 }
 
-.footer {
+footer {
     width: 100%;
     height: 100px;
     padding: 28px 0 5px 0;
@@ -347,16 +347,16 @@ td img {
     min-width: 900px;
 }
 
-.footer a {
+footer a {
     color: #a8aa94;
     text-decoration: none;
 }
 
-.footer a:hover {
+footer a:hover {
     color: #fff;
     text-decoration: none;
 }
 
-.footer p {
+footer p {
     padding: 0 0 10px 0;
 }
